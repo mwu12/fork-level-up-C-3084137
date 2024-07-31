@@ -6,6 +6,7 @@ char *ordinal(int v)
 	   - create this function
 	   - this code won't run with out it!
 	 */
+	return ("un");
 }
 
 int main()
